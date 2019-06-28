@@ -1,5 +1,4 @@
-# mv text.txt README.txt
-# This is a temp.
+# Please read README.txt
 
 # *************************************************************** #
 # New Create Project
